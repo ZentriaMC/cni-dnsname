@@ -34,7 +34,7 @@ gofmt:
 
 
 binaries:
-	$(GO_BUILD) -o bin/dnsname github.com/containers/dnsname/plugins/meta/dnsname
+	$(GO_BUILD) -o bin/dnsname github.com/ZentriaMC/cni-dnsname/plugins/meta/dnsname
 
 .PHONY: .gitvalidation
 .gitvalidation:
