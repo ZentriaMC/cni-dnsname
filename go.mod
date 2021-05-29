@@ -1,4 +1,4 @@
-module github.com/containers/dnsname
+module github.com/ZentriaMC/cni-dnsname
 
 go 1.12
 
